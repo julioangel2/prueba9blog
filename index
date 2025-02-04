@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Unusual Analysis</title>
+    <meta charset="utf-8">
+    <style>
+        body { font-family: Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        a { color: #0366d6; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Hola! 🚀</h1>
+    <p>Un Un punto de vista inusual de las cosas</p>
+    
+    <h2>Últimas entradas</h2>
+    <ul>
+        <li><a href="/posts/2024-05-21-hola-mundo.html">Mi primer post</a> - 21/05/2024</li>
+    </ul>
+
+    <h2>Sobre mí</h2>
+    <p>📝 prueba de blog | 🌍 Negocios internacionales | 💻 hola</p>
+    <p>📫 Contáctame: <a href="julio.ramirezandrade@cesunbc.edu.mx</a></p>
+</body>
+</html>
